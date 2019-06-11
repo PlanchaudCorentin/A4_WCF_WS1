@@ -1,0 +1,11 @@
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\bin\Debug\WCF_Service.dll
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\bin\Debug\WCF_Service.pdb
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\bin\Debug\WCF_Contracts.dll
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\bin\Debug\WCF_Contracts.pdb
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\obj\Debug\WCF_Service.csprojAssemblyReference.cache
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\obj\Debug\WCF_Service.csproj.CoreCompileInputs.cache
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\obj\Debug\WCF_Service.csproj.CopyComplete
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\obj\Debug\WCF_Service.dll
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\obj\Debug\WCF_Service.pdb
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\bin\Debug\WCF_DataContracts.dll
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_Service\bin\Debug\WCF_DataContracts.pdb

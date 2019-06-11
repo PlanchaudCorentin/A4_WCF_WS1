@@ -1,0 +1,6 @@
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_DataContracts\bin\Debug\WCF_DataContracts.dll
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_DataContracts\bin\Debug\WCF_DataContracts.pdb
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_DataContracts\obj\Debug\WCF_DataContracts.csprojAssemblyReference.cache
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_DataContracts\obj\Debug\WCF_DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_DataContracts\obj\Debug\WCF_DataContracts.dll
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\WCF_DataContracts\obj\Debug\WCF_DataContracts.pdb
