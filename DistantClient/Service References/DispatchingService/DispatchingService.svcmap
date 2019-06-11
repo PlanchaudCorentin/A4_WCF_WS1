@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="55edcdce-c5e1-41be-aee4-2eac1e027462" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1998/WS" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DispatchingService.wsdl" MetadataType="Wsdl" ID="8121a5a7-06c2-4b9d-8a8e-ed4a29148e41" SourceId="1" SourceUrl="http://localhost:1998/WS" />
+    <MetadataFile FileName="WS.xsd" MetadataType="Schema" ID="cbb4965a-44a0-4d57-b878-f579099948e0" SourceId="1" SourceUrl="http://localhost:1998/WS?xsd=xsd0" />
+    <MetadataFile FileName="WS0.xsd" MetadataType="Schema" ID="55553095-292d-4203-a05d-fae089e25896" SourceId="1" SourceUrl="http://localhost:1998/WS?xsd=xsd1" />
+    <MetadataFile FileName="WS1.xsd" MetadataType="Schema" ID="3b156f98-f980-4de7-bf87-a9ec8daf657f" SourceId="1" SourceUrl="http://localhost:1998/WS?xsd=xsd2" />
+    <MetadataFile FileName="WS2.xsd" MetadataType="Schema" ID="2ffa92ff-d486-4c9a-b774-ef5343c3d37d" SourceId="1" SourceUrl="http://localhost:1998/WS?xsd=xsd3" />
+  </Metadata>
+  <Extensions />
+</ReferenceGroup>

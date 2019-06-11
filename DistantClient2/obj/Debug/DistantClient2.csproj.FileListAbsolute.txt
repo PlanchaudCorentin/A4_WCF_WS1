@@ -1,0 +1,7 @@
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\bin\Debug\DistantClient2.exe.config
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\bin\Debug\DistantClient2.exe
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\bin\Debug\DistantClient2.pdb
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\obj\Debug\DistantClient2.csprojAssemblyReference.cache
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\obj\Debug\DistantClient2.csproj.CoreCompileInputs.cache
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\obj\Debug\DistantClient2.exe
+C:\Users\Corentin Planchaud\RiderProjects\A4_WCF_WS1\DistantClient2\obj\Debug\DistantClient2.pdb
